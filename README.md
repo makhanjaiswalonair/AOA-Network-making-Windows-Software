@@ -119,5 +119,11 @@ Future Enhancements
 Contributors
 ------------
 - Makhan Jaiswal  
-  Lead Developer and Architect  
+  Lead Developer and Architect
+- Shashank Kosta
+  UI Designer and Developer
+- Shreyansh Jain
+  UI Designing and Add on
+- Aditya Kumar
+  Helper
 
