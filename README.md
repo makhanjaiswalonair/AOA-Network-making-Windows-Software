@@ -73,6 +73,19 @@ How to Use
    - Analyze project schedules, including:
      - Total project duration.
      - Critical path and slack times.
+    
+    
+Or if you want to runthe software without changing anything:
+To use the AOA Network Diagram project, you have two options:
+
+Download the executable file from the following link: [Hosted Exe File](h).
+This option is recommended if you just want to run the project without modifying the source code.
+OR
+
+Download the source code by cloning the repository or downloading as zip from here and then running the main.py file. Make sure you have Python installed, preferably version 3.10. This option is recommended if you want to customize or contribute to the project.
+Please note that you need to have Graphviz installed, the environment variables properly set, and the Graphviz bin folder path added to the PATH environment variable for the project to work correctly.
+
+For more instructions of app usage, please refer to the App Manual.
 
 Architecture and Algorithms
 ---------------------------
