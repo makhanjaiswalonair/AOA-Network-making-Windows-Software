@@ -78,7 +78,7 @@ How to Use
 Or if you want to runthe software without changing anything:
 To use the AOA Network Diagram project, you have two options:
 
-Download the executable file from the following link: [Hosted Exe File](h).
+Download the executable file from the following link: [Hosted Exe File](https://github.com/makhanjaiswalonair/AOA-Network-making-Windows-Software/blob/main/AOA_Project_Manager.exe).
 This option is recommended if you just want to run the project without modifying the source code.
 OR
 
